@@ -4,7 +4,7 @@ import { LexicaApp } from './LexicaApp'
 import './styles/index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-	<React.StrictMode>
-		<LexicaApp />
-	</React.StrictMode>
+  <React.StrictMode>
+    <LexicaApp />
+  </React.StrictMode>
 )
